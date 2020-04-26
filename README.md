@@ -1,5 +1,5 @@
 # Troop 255 Programming Merit Badge
-BSA Programming merit badge materials. Created for Troop 255, Chevy Chase, MD, National Capital Area Council. Charter by Chevy Chase United Methodist Church.
+BSA Programming merit badge materials. Created for Troop 255, Chevy Chase, MD, National Capital Area Council. Chartered by Chevy Chase United Methodist Church.
 
 This merit badge will be completed in two sessions.
 
@@ -15,6 +15,7 @@ Review all requirements except for 1a BSA Cyber Chip and 5 projects. This will i
 Complete requirement 5, Projects. In this session we will review the code provided to see how programs run in Python, Java, and R. You will then make changes to the programs to complete the requirement.
 
 # Prerequisites to taking the merit badge class
+
 ## Review Merit Badge Requirements
 Review the requirements for the merit badge and get a general understanding of what we will be doing to earn the badge.
 
@@ -38,3 +39,17 @@ There are three starter projects for Session 2 located on GitHub. GitHub is a to
 The files can be found [in the code folder](code).
 
 Download the three files. They will have extensions of .py, .java, and .r. Save these to a folder on your computer. 
+
+# Additional Resources
+Do you want to learn more about programming? Here are some resources to continue your path to becomming an expert coder.
+
+## Learn Python
+Kaggle is a data science website with training, data sets, and data science competitions. They have a free course on learning Python. https://www.kaggle.com/learn/python
+
+Python: https://www.learnpython.org/	
+
+Khan Academy Hour of Code: https://www.khanacademy.org/hourofcode	
+
+Code.org Hour of Code: https://code.org/learn	
+
+Scratch: https://scratch.mit.edu/
