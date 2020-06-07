@@ -50,9 +50,7 @@ Extensions make it possible to run the code for this merit badge, and also provi
 ## Download the Code
 There are three starter projects for Session 2 located on GitHub. GitHub is a tool used for developing and publishing code that is popular with programmers. If you want to further your programming education you may consider setting up an account.
 
-The files can be found [in the code folder](code/Programming MD Code.zip).
-
-Download the three files. They will have extensions of .py, .java, and .r. Save these to a folder on your computer. 
+A zip file containing all three scripts is located [in the code folder](code). Download the zip file and extract the scripts to a location you can easily find them in the next step.
 
 ## Open Visual Studio Code and Project Files
 1. Launch Visual Studio Code (VSCode) on your computer.
