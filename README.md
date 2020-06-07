@@ -28,18 +28,31 @@ https://www.scouting.org/training/youth-protection/cyber-chip/
 
 Note: All Cyber Chips will expire annually. This must be done on the Scout's own.
 
+## Download and Install Python, Java, and R
+These are the languages we will use in this merit badge. In each case, download the latest version for your operating system and follow the installation instructions.
+
+### Python
+https://www.python.org/
+
+### Java SE Development Kit 14
+https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
+
+### R
+http://lib.stat.cmu.edu/R/CRAN/
+
 ## Download and Install Microsoft Visual Studio Code
 Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. It supports many programming languages including Python, Java, and R, the three languages we will use for the merit badge class.
 
 Visual Studio Code can be downloaded from this link:
 https://code.visualstudio.com/
 
-Once the installer is downloaded follow the instructions to complete the installation.
+Once you have doanloaded the installer, follow the installation instructions. Open Visual Studio Code.
 
 ## Install Visual Studio Code Extensions
 Extensions make it possible to run the code for this merit badge, and also provide keyword highlighting and other useful features.
 
 1. Inside Visual Studio Code, click on the Extensions button as shown below.
+![GitHub Logo](/images/Step 1 Programming MB.png)
 
 2. In the search box, enter *python* as shown. Click the **Install** button for the extension published by Microsoft. If Visual Studio Code recommends installing any other supporting tools, install those as well.
 
