@@ -55,10 +55,13 @@ Extensions make it possible to run the code for this merit badge, and also provi
 ![Step 1](https://github.com/yelirkram/Troop-255-Programming-MB/blob/master/images/Step%201%20Programming%20MB.png)
 
 2. In the search box, enter *python* as shown. Click the **Install** button for the extension published by Microsoft. If Visual Studio Code recommends installing any other supporting tools, install those as well.
+![Step 2](https://github.com/yelirkram/Troop-255-Programming-MB/blob/master/images/Step%202%20Programming%20MB.png)
 
 3. Once python is installed, go back to the search box and enter *java extension pack* as shown. Click the **Install** button for the extension published by Microsoft. 
+![Step 3](https://github.com/yelirkram/Troop-255-Programming-MB/blob/master/images/Step%203%20Programming%20MB.png)
 
-4. Once java is installed, go back to the search box and enter *r* as shown. Click the **Install** button for the extension published by 
+4. Once java is installed, go back to the search box and enter *r* as shown. Click the **Install** button for the extension published by Yuki Ueda.
+![Step 4](https://github.com/yelirkram/Troop-255-Programming-MB/blob/master/images/Step%204%20Programming%20MB.png)
 
 ## Download the Code
 There are three starter projects for Session 2 located on GitHub. GitHub is a tool used for developing and publishing code that is popular with programmers. If you want to further your programming education you may consider setting up an account.
