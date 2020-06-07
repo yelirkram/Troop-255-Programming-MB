@@ -52,7 +52,7 @@ Once you have doanloaded the installer, follow the installation instructions. Op
 Extensions make it possible to run the code for this merit badge, and also provide keyword highlighting and other useful features.
 
 1. Inside Visual Studio Code, click on the Extensions button as shown below.
-![GitHub Logo](/images/Step 1 Programming MB.png)
+![Step 1](https://github.com/yelirkram/Troop-255-Programming-MB/blob/master/images/Step%201%20Programming%20MB.png)
 
 2. In the search box, enter *python* as shown. Click the **Install** button for the extension published by Microsoft. If Visual Studio Code recommends installing any other supporting tools, install those as well.
 
