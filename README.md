@@ -31,12 +31,26 @@ Note: All Cyber Chips will expire annually. This must be done on the Scout's own
 ## Download and Install Microsoft Visual Studio Code
 Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS. It supports many programming languages including Python, Java, and R, the three languages we will use for the merit badge class.
 
+Visual Studio Code can be downloaded from this link:
 https://code.visualstudio.com/
+
+Once the installer is downloaded follow the instructions to complete the installation.
+
+## Install Visual Studio Code Extensions
+Extensions make it possible to run the code for this merit badge, and also provide keyword highlighting and other useful features.
+
+1. Inside Visual Studio Code, click on the Extensions button as shown below.
+
+2. In the search box, enter *python* as shown. Click the **Install** button for the extension published by Microsoft. If Visual Studio Code recommends installing any other supporting tools, install those as well.
+
+3. Once python is installed, go back to the search box and enter *java extension pack* as shown. Click the **Install** button for the extension published by Microsoft. 
+
+4. Once java is installed, go back to the search box and enter *r* as shown. Click the **Install** button for the extension published by 
 
 ## Download the Code
 There are three starter projects for Session 2 located on GitHub. GitHub is a tool used for developing and publishing code that is popular with programmers. If you want to further your programming education you may consider setting up an account.
 
-The files can be found [in the code folder](code).
+The files can be found [in the code folder](code/Programming MD Code.zip).
 
 Download the three files. They will have extensions of .py, .java, and .r. Save these to a folder on your computer. 
 
