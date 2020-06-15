@@ -49,7 +49,7 @@ https://code.visualstudio.com/
 Once you have doanloaded the installer, follow the installation instructions. Open Visual Studio Code.
 
 ## Install Visual Studio Code Extensions
-Extensions make it possible to run the code for this merit badge, and also provide keyword highlighting and other useful features.
+Extensions make it possible to run the code for this merit badge, and also provide keyword highlighting and other useful features that are spcific to that programming language.
 
 1. Inside Visual Studio Code, click on the Extensions button as shown below.
 ![Step 1](https://github.com/yelirkram/Troop-255-Programming-MB/blob/master/images/Step%201%20Programming%20MB.png)
@@ -74,10 +74,9 @@ A zip file containing all three scripts is located [in the code folder](code). D
 3. Go to File > Open and choose the Project2.java file.
 4. Go to File > Open and choose the Project3.r file.
 
-# Additional Resources
+# Additional Resources for Learning Programming
 Do you want to learn more about programming? Here are some resources to continue your path to becomming an expert coder.
 
-## Learn Python
 Kaggle is a data science website with training, data sets, and data science competitions. They have a free course on learning Python. https://www.kaggle.com/learn/python
 
 Python: https://www.learnpython.org/	
@@ -87,3 +86,7 @@ Khan Academy Hour of Code: https://www.khanacademy.org/hourofcode
 Code.org Hour of Code: https://code.org/learn	
 
 Scratch: https://scratch.mit.edu/
+
+Py mobile app: https://www.getpy.com/mobile
+
+Programming Hero mobile app: https://www.programming-hero.com/
