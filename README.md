@@ -32,9 +32,9 @@ Note: All Cyber Chips will expire annually. This must be done on the Scout's own
 1. Go to https://repl.it/.
 2. Click on the **<> start coding** button, or log in if you have an account.
 3. Choose the **Import from GitHub** tab at the top of the pop-up window.
-4. Copy and paste *yelirkram/Troop-255-Programming-MB* into the text box and click the **Import from GitHub** button.
+4. Copy and paste *yelirkram/t255-python* into the text box and click the **Import from GitHub** button.
 5. Wait a moment for repl.it to import the code from the GitHub repository.
-6. Expand the **code** folder to see the project files and begin instruction with your merit badge counselor.
+6. Begin instruction with your merit badge counselor.
 
 # Additional Resources for Learning Programming
 Do you want to learn more about programming? Here are some resources to continue your path to becomming an expert coder.
@@ -52,3 +52,7 @@ Scratch: https://scratch.mit.edu/
 Py mobile app: https://www.getpy.com/mobile
 
 Programming Hero mobile app: https://www.programming-hero.com/
+
+RStudio Education: https://education.rstudio.com/
+
+Repl.it Tutorials: https://repl.it/talk/learn
