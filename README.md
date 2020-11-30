@@ -4,15 +4,15 @@ BSA Programming merit badge materials. Created for Troop 255, Chevy Chase, MD, N
 This merit badge will be completed in two sessions.
 
 ## Session 1
-Review all requirements except for 1a BSA Cyber Chip and 5 projects. This will include:
 * Safety
 * History
 * General knowledge
-* Intellectual property
-* Careers
+* Review sample projects in Python, Java, and Julia for modification
 
 ## Session 2
-Complete requirement 5, Projects. In this session we will review the code provided to see how programs run in Python, Java, and Julia. You will then make changes to the programs to complete the requirement.
+* Intellectual property
+* Careers
+* Review changes to projects in Python, Java, and Julia
 
 # Prerequisites
 
@@ -26,11 +26,12 @@ To help families and volunteers keep youth safe while online, the Boy Scouts of 
 
 https://www.scouting.org/training/youth-protection/cyber-chip/
 
-Note: All Cyber Chips will expire annually. This must be done on the Scout's own.
+Note: All Cyber Chips will expire annually. This must be done on the Scout's own (will not b covered during the class).
 
 # Coding Project/Session Instructions
 1. Go to https://repl.it/.
-2. Click on the **<> start coding** button, or log in if you have an account.
+2. Create an account using the **Sign up** button or log in to your account using the **Log in** button.
+2. Click on the **+ New repl** button.
 3. Choose the **Import from GitHub** tab at the top of the pop-up window.
 4. Copy and paste *yelirkram/t255-python* into the text box and click the **Import from GitHub** button.
 5. Wait a moment for repl.it to import the code from the GitHub repository.
