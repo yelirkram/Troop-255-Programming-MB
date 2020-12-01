@@ -38,7 +38,7 @@ Note: All Cyber Chips will expire annually. This must be done on the Scout's own
 6. Explore the code and comments.
 7. Run the code to see how the program operates.
 8. Attempt to make suggested changes in the comments at the bottom.
-9. Repeat steps 4 - 8 for the **Java** *yelirkram/t255-java*, and **Julia** *yelirkram/t255-julia* projects.
+9. Repeat steps 4 - 9 for the **Java** *yelirkram/t255-java*, and **Julia** *yelirkram/t255-julia* projects.
 
 # Additional Resources for Learning Programming
 Do you want to learn more about programming? Here are some resources to continue your path to becomming an expert coder.
