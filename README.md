@@ -4,15 +4,15 @@ BSA Programming merit badge materials. Created for Troop 255, Chevy Chase, MD, N
 This merit badge will be completed in two sessions.
 
 ## Session 1
-* Safety
-* History
-* General knowledge
-* Review sample projects in Python, Java, and Julia for modification
+* Safety.
+* History.
+* General knowledge.
+* Review sample projects in Python, Java, and Julia for modification.
 
 ## Session 2
-* Intellectual property
-* Careers
-* Review changes to projects in Python, Java, and Julia
+* Intellectual property.
+* Programming careers.
+* Review changes to projects in Python, Java, and Julia.
 
 # Prerequisites
 
