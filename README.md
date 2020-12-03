@@ -21,12 +21,12 @@ Review the requirements for the merit badge and get a general understanding of w
 
 https://boyslife.org/merit-badges/programming-merit-badge/
 
-## Complete your CyberChip
-To help families and volunteers keep youth safe while online, the Boy Scouts of America introduces the Cyber Chip. In developing this exciting new tool, the BSA teamed up with content expert NetSmartz®, part of the National Center for Missing and Exploited Children® and training expert for many law enforcement agencies.
+## Complete your Cyber Chip
+To help families and volunteers keep youth safe while online, the BSA introduced the Cyber Chip. In developing this exciting new tool, the BSA teamed up with content expert NetSmartz®, part of the National Center for Missing and Exploited Children® and training expert for many law enforcement agencies.
 
 https://www.scouting.org/training/youth-protection/cyber-chip/
 
-Note: All Cyber Chips will expire annually. This must be done on the Scout's own (will not b covered during the class).
+Note: All Cyber Chips will expire annually. This must be done on the Scout's own (will not be covered during the class).
 
 # Coding Project/Session Instructions
 1. Go to https://repl.it/.
