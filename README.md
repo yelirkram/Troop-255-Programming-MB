@@ -48,9 +48,12 @@ Stack Overflow helps you get answers to your toughest coding questions. As you g
 # Additional Programming Merit Badge Resources
 Watch the following short videos to learn more about the technologies we discuss during the programming class
 
-* [How an 1803 Jacquard Loom Led to Computer Technology (2 mins)](https://youtu.be/MQzpLLhN0fY)
-* [False Dawn: The Babbage Engine (5.5 mins)](https://youtu.be/XSkGY6LchJs)
-* [Human Computers (5.25 mins)](https://youtu.be/m13Jrk-cUmo)
+* [How an 1803 Jacquard Loom Led to Computer Technology (2:00 mins)](https://youtu.be/MQzpLLhN0fY)
+* [False Dawn: The Babbage Engine (5:30 mins)](https://youtu.be/XSkGY6LchJs)
+* [Human Computers (5:15 mins)](https://youtu.be/m13Jrk-cUmo)
+* [ENIAC: The First Computer (2:15 mins)](https://youtu.be/k4oGI_dNaPc)
+* [The Night a UNIVAC Computer Predicted The Next President: NOV. 4, 1952 (3:03 mins)](https://youtu.be/nHov1Atrjzk)
+* [Archives & Oddities: Hollerith Tabulating Machine (1:13 mins)](https://youtu.be/Kvk3_MfF7SA)
 
 # Additional Resources for Learning Programming
 Do you want to learn more about programming? Here are some resources to continue your path to becomming an expert coder.
