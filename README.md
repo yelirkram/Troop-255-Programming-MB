@@ -40,8 +40,21 @@ Note: All Cyber Chips will expire annually. This must be done on the Scout's own
 8. Attempt to make suggested changes in the comments at the bottom.
 9. Repeat steps 4 - 9 for the **Java** *yelirkram/t255-java*, and **Julia** *yelirkram/t255-julia* projects.
 
+##  Coding Project Troubleshooting
+https://stackoverflow.com/
+
+Stack Overflow helps you get answers to your toughest coding questions. As you go through your programming assignments this should be your first outside resource. Enter your questions or error messages into the search to find solutions. This is a very important resource for programmers.
+
+# Additional Programming Merit Badge Resources
+Watch the following short videos to learn more about the technologies we discuss during the programming class
+
+* [How an 1803 Jacquard Loom Led to Computer Technology (2 mins)](https://youtu.be/MQzpLLhN0fY)
+* [False Dawn: The Babbage Engine (5.5 mins)](https://youtu.be/XSkGY6LchJs)
+* [Human Computers (5.25 mins)](https://youtu.be/m13Jrk-cUmo)
+
 # Additional Resources for Learning Programming
 Do you want to learn more about programming? Here are some resources to continue your path to becomming an expert coder.
+
 
 Kaggle is a data science website with training, data sets, and data science competitions. They have a free course on learning Python. https://www.kaggle.com/learn/python
 
