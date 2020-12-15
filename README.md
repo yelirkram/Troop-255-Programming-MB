@@ -14,6 +14,8 @@ This merit badge will be completed in two sessions.
 * Programming careers.
 * Review changes to projects in Python, Java, and Julia.
 
+---
+
 # Prerequisites
 
 ## Review Merit Badge Requirements
@@ -27,6 +29,20 @@ To help families and volunteers keep youth safe while online, the BSA introduced
 https://www.scouting.org/training/youth-protection/cyber-chip/
 
 Note: All Cyber Chips will expire annually. This must be done on the Scout's own (will not be covered during the class).
+
+### Level II Internet Safety Pledge
+Copy the text below into an email message and send it to at least one parent and your merit badge counselor. This will satisfy the first of five Cyber Chip requirements.
+
+**Internet Safety Pledge**
+1. I will think before I post.
+2. I will respect other people online.
+3. I will respect digital media ownership.
+4. I won't meet face-to-face with anyone I meet in the digital world unless I have my parent's permission.
+5. I will protect myself online.
+
+*Scout Name:*
+
+---
 
 # Coding Project/Session Instructions
 1. Go to https://repl.it/.
@@ -45,6 +61,8 @@ https://stackoverflow.com/
 
 Stack Overflow helps you get answers to your toughest coding questions. As you go through your programming assignments this should be your first outside resource. Enter your questions or error messages into the search to find solutions. This is a very important resource for programmers.
 
+---
+
 # Additional Programming Merit Badge Resources
 Watch the following short videos to learn more about the technologies we discuss during the programming class
 
@@ -54,6 +72,8 @@ Watch the following short videos to learn more about the technologies we discuss
 * [ENIAC: The First Computer (2:15 mins)](https://youtu.be/k4oGI_dNaPc)
 * [The Night a UNIVAC Computer Predicted The Next President: NOV. 4, 1952 (3:03 mins)](https://youtu.be/nHov1Atrjzk)
 * [Archives & Oddities: Hollerith Tabulating Machine (1:13 mins)](https://youtu.be/Kvk3_MfF7SA)
+
+---
 
 # Additional Resources for Learning Programming
 Do you want to learn more about programming? Here are some resources to continue your path to becomming an expert coder.
