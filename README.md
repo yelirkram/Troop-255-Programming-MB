@@ -31,7 +31,7 @@ https://www.scouting.org/training/youth-protection/cyber-chip/
 Note: All Cyber Chips will expire annually. This must be done on the Scout's own (will not be covered during the class).
 
 ### Level II Internet Safety Pledge
-Copy the text below into an email message and send it to at least one parent and your merit badge counselor. This will satisfy the first of five Cyber Chip requirements.
+Copy the *Internet Safety Pledge* text below into an email message and send it to at least one parent and your merit badge counselor with the Subject of 'Cyber Chip'. This will satisfy the first of five Cyber Chip requirements.
 
 **Internet Safety Pledge**
 1. I will think before I post.
@@ -54,7 +54,7 @@ Copy the text below into an email message and send it to at least one parent and
 6. Explore the code and comments.
 7. Run the code to see how the program operates.
 8. Attempt to make suggested changes in the comments at the bottom.
-9. Repeat steps 4 - 9 for the **Java** *yelirkram/t255-java*, and **Julia** *yelirkram/t255-julia* projects.
+9. Repeat steps 3 - 9 for the **Java** *yelirkram/t255-java*, and **Julia** *yelirkram/t255-julia* projects.
 
 ##  Coding Project Troubleshooting
 https://stackoverflow.com/
@@ -78,21 +78,20 @@ Watch the following short videos to learn more about the technologies we discuss
 # Additional Resources for Learning Programming
 Do you want to learn more about programming? Here are some resources to continue your path to becomming an expert coder.
 
+* Kaggle is a data science website with training, data sets, and data science competitions. They have a free course on learning Python. https://www.kaggle.com/learn/python
 
-Kaggle is a data science website with training, data sets, and data science competitions. They have a free course on learning Python. https://www.kaggle.com/learn/python
+* Learn Python: https://www.learnpython.org/	
 
-Python: https://www.learnpython.org/	
+* Khan Academy Hour of Code: https://www.khanacademy.org/hourofcode	
 
-Khan Academy Hour of Code: https://www.khanacademy.org/hourofcode	
+* Code.org Hour of Code: https://code.org/learn	
 
-Code.org Hour of Code: https://code.org/learn	
+* Scratch: https://scratch.mit.edu/
 
-Scratch: https://scratch.mit.edu/
+* Py mobile app: https://www.getpy.com/mobile
 
-Py mobile app: https://www.getpy.com/mobile
+* Programming Hero mobile app: https://www.programming-hero.com/
 
-Programming Hero mobile app: https://www.programming-hero.com/
+* RStudio Education: https://education.rstudio.com/
 
-RStudio Education: https://education.rstudio.com/
-
-Repl.it Tutorials: https://repl.it/talk/learn
+* Repl.it Tutorials: https://repl.it/talk/learn
